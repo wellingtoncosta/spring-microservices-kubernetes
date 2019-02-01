@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: reservation-service
+
+server:
+  port: 3000
